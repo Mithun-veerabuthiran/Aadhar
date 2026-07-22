@@ -329,11 +329,7 @@ Contributions are welcome 🚀
 4. Run checks locally.
 5. Open a Pull Request with a clear summary.
 
-## License
 
-MIT License.
-
-> Note: Add a `LICENSE` file in the repository root to formalize license terms in source control.
 
 ## Author
 
